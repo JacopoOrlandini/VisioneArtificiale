@@ -1,0 +1,7 @@
+/home/jacopo/Scrivania/Visione artificiale/Assegnamento/simple/build/CMakeFiles/install/strip.dir
+/home/jacopo/Scrivania/Visione artificiale/Assegnamento/simple/build/CMakeFiles/edit_cache.dir
+/home/jacopo/Scrivania/Visione artificiale/Assegnamento/simple/build/CMakeFiles/list_install_components.dir
+/home/jacopo/Scrivania/Visione artificiale/Assegnamento/simple/build/CMakeFiles/simple.dir
+/home/jacopo/Scrivania/Visione artificiale/Assegnamento/simple/build/CMakeFiles/install/local.dir
+/home/jacopo/Scrivania/Visione artificiale/Assegnamento/simple/build/CMakeFiles/rebuild_cache.dir
+/home/jacopo/Scrivania/Visione artificiale/Assegnamento/simple/build/CMakeFiles/install.dir
